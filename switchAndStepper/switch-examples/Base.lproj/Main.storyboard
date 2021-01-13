@@ -77,9 +77,9 @@
                     </view>
                     <connections>
                         <outlet property="giftLable" destination="oga-Qu-3Q0" id="qK5-6m-UbV"/>
-                        <outlet property="giftStepper" destination="Dvc-a9-aEe" id="fet-eb-rfQ"/>
+                        <outlet property="giftStepper" destination="Dvc-a9-aEe" id="ZIe-wP-tJc"/>
                         <outlet property="imageView" destination="MzT-59-Ggi" id="jV3-5j-qCs"/>
-                        <outlet property="modeSwitch" destination="nw5-nv-EBj" id="bh3-2R-egK"/>
+                        <outlet property="modeSwitch" destination="nw5-nv-EBj" id="nVB-DP-3Lz"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

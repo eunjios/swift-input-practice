@@ -46,7 +46,7 @@ class ViewController: UIViewController {
             alertTitle = "Sorry"
             alertMessage = "it is not christmas!"
         } else {
-            for _ in 0...(Int(giftStepper.value)-1) {
+            for _ in 0..<Int(giftStepper.value) {
                 alertTitle = alertTitle + "🎁"
             }
             alertMessage = "This is for you!"
