@@ -14,3 +14,8 @@
 * 사용자가 `switch` 를 통해 christmas mode를 On/Off로 설정합니다.
 * 사용자가 `stepper` 를 통해 받고 싶은 선물 개수를 선택합니다.
 * button 을 누르면 alert 창의 title 에 선물의 개수만큼 🎁 이 출력됩니다. (단, christmas mode 가 Off 일 경우 출력되지 않습니다.)
+
+## Picker View
+![](https://github.com/eunjios/swift-input-practice/blob/main/pickerView-simulator.PNG)
+* 사용자가 `pickerView` 를 통해 사진을 선택할 수 있습니다. _(사진은 다 제가 찍었습니다..🤓)_
+* 처음으로 `delegate`와 `protocol`을 사용해 보았습니다!
